@@ -18,7 +18,7 @@ The project is to predict real estate value (house price of unit area). Approach
 
 **D. Presentation**
 
-**Slides: ** 
+**Slides:** 
 
 https://github.com/shihyuanwang/MachineLearning_RealEstateValuePrediction/blob/main/Real%20Estate%20Value%20Prediction.pdf
 
