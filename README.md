@@ -16,8 +16,12 @@ https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
 The project is to predict real estate value (house price of unit area). Approaches include loading data, analyzing exploratory data, transforming data (imputing missing values and performing feature scaling), fitting models, evaluating models, and summarizing results. Supervised (multiple linear regression, ridge regression & lasso, principal components regression (PCR) & partial least squares (PLS), generalized additive models (GAMs) - splines, tree-based (bagging, random forest, and boosting), and support vector machine (SVM)) learning modelling methods will be used.
 
 
-**D. Presentation video**
+**D. Presentation**
 
+**Slides: ** 
+https://github.com/shihyuanwang/MachineLearning_RealEstateValuePrediction/blob/main/Real%20Estate%20Value%20Prediction.pdf
+
+**Video:**
 Part 1
 https://drive.google.com/open?id=1kfGZoc9HRriv5PfR4G9rx2GwYv8mWcnV
 
